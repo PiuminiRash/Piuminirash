@@ -1,7 +1,5 @@
-<h1>Hi 👋, I'm Piu Rash</h1>
+<h1>Hi 👋, I'm Piumini Rashmika</h1>
 <h1>
-  A passionate and curious software engineering student on a journey to explore the vast realms of code and technology. I am fascinated by the art and science of crafting elegant solutions to real-world problems.</h1>
-<img algin="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithiraroneth" alt="sithiraroneth" /></a> </p>
 
@@ -13,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sithira roneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithira roneth" height="30" width="40" /></a>
-<a href="https://instagram.com/sithira_roneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sithira_roneth" height="30" width="40" /></a>
-<a href="https://dribbble.com/sithira roneth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sithira roneth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/piumini rashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piumini rashmika" height="30" width="40" /></a>
+<a href="https://instagram.com/piumini_rashmika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piumini rashmika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
