@@ -6,13 +6,13 @@
 </div>
 <hr>
 
- <h3 align="center">Future Software Engineer</h3>
+ <h3 align="left">Future Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124574193/264910468-7d9f1d06-5952-46b8-b9d6-fe033ec35356.png">
 
 - 🌱 I’m currently learning **GDSE - Graduate Diploma In Software Engineering**
 
-- 💬 Ask me about **java,oop,sql,html**
+- 💬 Ask me about **java,oop,sql,html,css**
 
 - 📫 How to reach me **piuminirashmika@gmail.com**
 
