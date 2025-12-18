@@ -6,7 +6,7 @@
 ---
 
 ## 💼 About Me
-I’m a software developer passionate about **building impactful applications** and **leveraging AI to solve real-world problems**. I specialize in both **frontend and backend development**, with experience in **web, mobile, and machine learning projects**.  
+I’m a software developer passionate about building impactful applications and leveraging AI to solve real-world problems. I specialize in both **frontend and backend development**, with experience in **web, mobile, and machine learning projects**.  
 
 I also create **educational content** to make complex software concepts easier to understand.  
 
@@ -36,13 +36,8 @@ I also create **educational content** to make complex software concepts easier t
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piumini-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/piumini-rashmika-020b872aa)   
-[![Email](https://img.shields.io/badge/Email-Piumini-orange?style=flat-square&logo=gmail)](mailto:piuminirashmika@gmail.com)  
-
----
-
-## 📊 GitHub Stats
-![Piumini's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PiuminiRahmika-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/piumini-rashmika-020b872aa)   
+[![Email](https://img.shields.io/badge/Email-PiuminiRashmika-orange?style=flat-square&logo=gmail)](mailto:piuminirashmika@gmail.com)  
 
 ---
 
