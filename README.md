@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Piumini Rashmika
+# Hi, I'm Piumini Rashmika
 
 **Undergraduate BSc (Hons) Computer Science | Full-Stack Developer | QA & AI Enthusiast**  
 📍 Colombo, Sri Lanka  
